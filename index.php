@@ -28,4 +28,6 @@
     $objRun = new Template();
     $objRun->getIntro();
     
+
+    soy mejor que diegonorrea
 ?>
