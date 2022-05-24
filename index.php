@@ -28,4 +28,6 @@
     $objRun = new Template();
     $objRun->getIntro();
     
+
+    aveces la vida es dura :(((((((((
 ?>
