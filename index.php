@@ -27,9 +27,5 @@
                     /* run */
     $objRun = new Template();
     $objRun->getIntro();
-  
 
-    "el bicho"
-        
-        cabro
 ?>
